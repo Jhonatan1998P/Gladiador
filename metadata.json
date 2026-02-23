@@ -1,0 +1,5 @@
+{
+  "name": "Gladiator RPG",
+  "description": "Un juego RPG persistente en el navegador estilo Gladiatus con arquitectura MVC.",
+  "requestFramePermissions": []
+}
